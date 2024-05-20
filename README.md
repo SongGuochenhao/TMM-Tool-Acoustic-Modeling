@@ -1,5 +1,5 @@
 # TMM-Tool-Acoustic-Modeling
-Code implementation of a straightforward, general, efficient and stable TMM proposed by Guochenhao Song, Zhuang Mo, and J. Stuart Bolton
+Code implementation of a straightforward, general, efficient and stable TMM:
 
 [1] Song, Guochenhao, Zhuang Mo, and J. Stuart Bolton. "A general and stable approach to modeling and coupling multilayered acoustical systems with various types of layers." Journal of Sound and Vibration 567 (2023): 117898.
 
